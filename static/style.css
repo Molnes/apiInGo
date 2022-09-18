@@ -1,0 +1,39 @@
+body {
+    background-color: #887c7c;
+    font-family: "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    margin: 0;
+    padding: 0;
+
+    align-items: center;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.eventItem {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.eventDay h1 {
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+    margin-top: 20px;
+    margin-bottom: 10px;
+
+    text-align: center;
+}
